@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=prabormukherjee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt = "My github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&theme=dark" alt = "My used pref." />
+<!-- This 2 lines are  collected from my friend *Paraj*, can also be found [here](https://github.com/praj000) -->
