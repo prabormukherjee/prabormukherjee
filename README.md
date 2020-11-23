@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Prabor's codechef" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 -->
-
-<br>
+<br/>
+<br/>
 <img src="https://profile-counter.glitch.me/prabormukherjee/count.svg" />
 <img height='250' align="right" src="https://media2.giphy.com/media/S0hxMGYFhEMzm/200.webp?cid=ecf05e473wwwpg2imb4825aimxkpwyrdu8y78k58om4i84rv&rid=200.webp" alt="GIF"/>
 
