@@ -66,10 +66,11 @@ Languages and Tools ->
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Sass](https://img.shields.io/badge/-Sass-00BCD4?style=flat-square&logo=sass&logoColor=ffffff)](https://sass-lang.com/)
-[![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)](https://www.webpackjs.com/)
 [![JQuery](https://img.shields.io/badge/-JQuery-8BC34A?style=flat-square&logo=jQuery&logoColor=ffffff)](https://jquery.com/)
 [![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
+
+[![Sass](https://img.shields.io/badge/-Sass-00BCD4?style=flat-square&logo=sass&logoColor=ffffff)](https://sass-lang.com/)
+[![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)](https://www.webpackjs.com/)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com/)
 
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
@@ -82,12 +83,12 @@ Languages and Tools ->
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
-[![Vim](https://img.shields.io/badge/-Vim-0066B1?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
-[![Atom](https://img.shields.io/badge/-Atom-019733?style=flat-square&logo=atom&logoColor=white)](https://atom.io/)
-
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
+
+[![Vim](https://img.shields.io/badge/-Vim-0066B1?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
+[![Atom](https://img.shields.io/badge/-Atom-019733?style=flat-square&logo=atom&logoColor=white)](https://atom.io/)
 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
