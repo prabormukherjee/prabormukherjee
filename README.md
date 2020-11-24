@@ -43,11 +43,6 @@ Here are some ideas to get you started:
 **Stats :**  
 Languages and Tools ->
 
-[![Linux](https://img.shields.io/badge/-Linux-003791?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
-[![Feodra](https://img.shields.io/badge/-Feodra-294172?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org/)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-in)
-
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://devdocs.io/c/)
 [![Cpp](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/-Java-F37C20?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/in/java/)
@@ -95,6 +90,10 @@ Languages and Tools ->
 [![Pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 <!--
+[![Linux](https://img.shields.io/badge/-Linux-003791?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Feodra](https://img.shields.io/badge/-Feodra-294172?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org/)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/en-in)
 [![Stylus](https://img.shields.io/badge/-Stylus-ff6347?style=flat-square&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
 -->
 
