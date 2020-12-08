@@ -74,22 +74,25 @@ Languages and Tools ->
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)](https://www.apache.org/)
 
-[![Vim](https://img.shields.io/badge/-Vim-0066B1?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
-[![Atom](https://img.shields.io/badge/-Atom-019733?style=flat-square&logo=atom&logoColor=white)](https://atom.io/)
-[![Anaconda](https://img.shields.io/badge/-Anaconda-42B029?style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 <!--
+[![Vim](https://img.shields.io/badge/-Vim-0066B1?style=flat-square&logo=vim&logoColor=white)](https://www.vim.org/)
+[![Atom](https://img.shields.io/badge/-Atom-019733?style=flat-square&logo=atom&logoColor=white)](https://atom.io/)
+[![Anaconda](https://img.shields.io/badge/-Anaconda-42B029?style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+[![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
+
 [![Linux](https://img.shields.io/badge/-Linux-003791?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
 [![Feodra](https://img.shields.io/badge/-Feodra-294172?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
@@ -100,5 +103,4 @@ Languages and Tools ->
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=prabormukherjee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt = "My github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&theme=dark&layout=compact" alt = "My used pref." />
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact -->
-<!-- These lines are  collected from my friend *Paraj*, can be found [here](https://github.com/praj000) -->
 <!-- These are subjected to copyright @[prabor](https://github.com/prabormukjerjee) -->
