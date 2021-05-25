@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/prabormukherjee">
   <img align="left" alt="Prabor's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/prabor-mukherjee-17b53a186">
+<a href="https://www.linkedin.com/in/prabormukherjee/">
   <img align="left" alt="Prabor's Linkdein" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/prabormukherjee">
