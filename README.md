@@ -102,7 +102,7 @@ Languages and Tools ->
 -->
 
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=prabormukherjee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt = "My github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&theme=dark&layout=compact&exclude_repo=Yolo_v3&langs_count=21" alt = "My used pref." />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&theme=dark&layout=compact&langs_count=10&hide=smalltalk,cuda,dockerfile" alt = "My used pref." />
 
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact -->
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact&exclude_repo=Yolo_v3&langs_count=21 -->
 <!-- These are subjected to copyright @[prabor](https://github.com/prabormukjerjee) -->
