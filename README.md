@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <img src="https://profile-counter.glitch.me/prabormukherjee/count.svg" />
+<!-- <img src="https://komarev.com/ghpvc/?username=prabormukherjee" /> -->
 <img height='220' align="right" src="https://media2.giphy.com/media/S0hxMGYFhEMzm/200.webp?cid=ecf05e473wwwpg2imb4825aimxkpwyrdu8y78k58om4i84rv&rid=200.webp" alt="GIF"/>
 
 - 🔭 I’m currently working on Advanced RL and cutting edge AI technique    
@@ -100,7 +101,8 @@ Languages and Tools ->
 [![Stylus](https://img.shields.io/badge/-Stylus-ff6347?style=flat-square&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
 -->
 
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=prabormukherjee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt = "My github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&theme=dark&layout=compact" alt = "My used pref." />
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=prabormukherjee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt = "My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&theme=dark&layout=compact&exclude_repo=Yolo_v3&langs_count=21" alt = "My used pref." />
+
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact -->
 <!-- These are subjected to copyright @[prabor](https://github.com/prabormukjerjee) -->
