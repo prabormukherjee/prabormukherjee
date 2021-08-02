@@ -42,7 +42,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to play chess and football    
 
 **Stats :**  
-Languages and Tools ->
+
+<img align="left" src = "https://github-readme-stats.vercel.app/api?username=prabormukherjee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt = "My github stats" />
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&theme=dark&layout=compact&langs_count=8&hide=smalltalk,cuda,dockerfile" alt = "My used pref." />
+
+**Languages and Tools :**
 
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://devdocs.io/c/)
 [![Cpp](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
@@ -68,10 +72,13 @@ Languages and Tools ->
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
-[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![openCV](https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)](https://keras.io/)
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/)
@@ -80,13 +87,10 @@ Languages and Tools ->
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)](https://www.apache.org/)
 
-[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![openCV](https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)](https://keras.io/)
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Pytorch](https://img.shields.io/badge/-pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 <!--
 [![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack)](https://www.webpackjs.com/)
@@ -107,9 +111,6 @@ Languages and Tools ->
 
 [![Stylus](https://img.shields.io/badge/-Stylus-ff6347?style=flat&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
 -->
-
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=prabormukherjee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt = "My github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&theme=dark&layout=compact&langs_count=10&hide=smalltalk,cuda,dockerfile" alt = "My used pref." />
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact&exclude_repo=Yolo_v3&langs_count=21 -->
 <!-- These are subjected to copyright @[prabor](https://github.com/prabormukjerjee) -->
