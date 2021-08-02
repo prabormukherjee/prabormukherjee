@@ -31,10 +31,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him    
 - ⚡ Fun fact: I love to play chess and football    
 
-**Stats :**  
+**Stats :**
 
-<img align="left" src = "https://github-readme-stats.vercel.app/api?username=prabormukherjee&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&" alt = "My github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact&langs_count=6&hide=smalltalk,cuda,dockerfile&theme=dark" alt = "My used pref." />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prabormukherjee&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My github stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact&langs_count=6&hide=smalltalk,cuda,dockerfile&theme=dark" alt="My github stats" />
+</a>
 
 <br/>
 <br/>
@@ -97,6 +101,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Prabor's codechef" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 -->
+
+
+<!-- <img align="left" src = "https://github-readme-stats.vercel.app/api?username=prabormukherjee&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&" alt = "My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact&langs_count=6&hide=smalltalk,cuda,dockerfile&theme=dark" alt = "My used pref." /> -->
 
 <!--
 [![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack)](https://www.webpackjs.com/)
