@@ -15,17 +15,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/prabormukherjee">
   <img align="left" alt="Prabor's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<!--
-<a href="https://www.twitch.tv/username">
-  <img align="left" alt="Prabor's twitch" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
-</a>
-<a href="https://codeforces.com/profile/username">
-  <img align="left" alt="Prabor's codeforces" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-<a href="https://www.codechef.com/users/username">
-  <img align="left" alt="Prabor's codechef" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
--->
+
 <br/>
 <br/>
 <img src="https://profile-counter.glitch.me/prabormukherjee/count.svg" />
@@ -44,7 +34,7 @@ Here are some ideas to get you started:
 **Stats :**  
 
 <img align="left" src = "https://github-readme-stats.vercel.app/api?username=prabormukherjee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt = "My github stats" />
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&theme=dark&layout=compact&langs_count=8&hide=smalltalk,cuda,dockerfile" alt = "My used pref." />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&theme=dark&layout=compact&langs_count=8&hide=smalltalk,cuda,dockerfile" alt = "My used pref." />
 
 **Languages and Tools :**
 
@@ -91,6 +81,19 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+
+<!--
+<a href="https://www.twitch.tv/username">
+  <img align="left" alt="Prabor's twitch" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
+</a>
+<a href="https://codeforces.com/profile/username">
+  <img align="left" alt="Prabor's codeforces" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a>
+<a href="https://www.codechef.com/users/username">
+  <img align="left" alt="Prabor's codechef" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+-->
 
 <!--
 [![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack)](https://www.webpackjs.com/)
