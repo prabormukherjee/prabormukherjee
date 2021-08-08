@@ -102,6 +102,9 @@ Here are some ideas to get you started:
 </a>
 -->
 
+<!-- <a href="#">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=prabormukherjee&theme=onedark&row=1" alt="My github stats" />
+</a> -->
 
 <!-- <img align="left" src = "https://github-readme-stats.vercel.app/api?username=prabormukherjee&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&" alt = "My github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact&langs_count=6&hide=smalltalk,cuda,dockerfile&theme=dark" alt = "My used pref." /> -->
