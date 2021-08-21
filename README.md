@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-<img src="https://profile-counter.glitch.me/prabormukherjee/count.svg" />
-<!-- <img src="https://komarev.com/ghpvc/?username=prabormukherjee" /> -->
+<img src="https://komarev.com/ghpvc/?username=prabormukherjee" />
 <img height='220' align="right" src="https://media2.giphy.com/media/S0hxMGYFhEMzm/200.webp?cid=ecf05e473wwwpg2imb4825aimxkpwyrdu8y78k58om4i84rv&rid=200.webp" alt="GIF"/>
 
 - 🔭 I’m currently working on Advanced RL and cutting edge AI technique    
