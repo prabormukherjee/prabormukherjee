@@ -21,50 +21,51 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=prabormukherjee" />
 <img height='220' align="right" src="https://media2.giphy.com/media/S0hxMGYFhEMzm/200.webp?cid=ecf05e473wwwpg2imb4825aimxkpwyrdu8y78k58om4i84rv&rid=200.webp" alt="GIF"/>
 
-- 🔭 I’m currently working on Advanced RL and cutting edge AI technique    
+- 🔭 I’m currently working on Advanced RL and cutting-edge AI technique    
 - 🌱 I’m currently learning Django, React, Angular    
 - 👯 I’m looking to collaborate on innovative projects    
 - 🤔 I’m looking for help with algorithms     
 - 💬 Ask me about ML, AI, WEB DEV    
-- 📫 How to reach me: Follow me on twitter    
+- 📫 How to reach me: Follow me on Twitter    
 - 😄 Pronouns: he/him    
 - ⚡ Fun fact: I love to play chess and football    
 
-**Stats :**
+**Stats:**
 
+<!-- IF YOU ARE FORKING THIS, USE [https://github-readme-stats.vercel.app/....] as URL, OTHER URLs CAN BE CHANGED RESULTING YOUR README BROKEN-->
 <a href="#">
-  <img align="center" src="https://github-readme-stats-pro.vercel.app/api?username=prabormukherjee&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My github stats" />
+  <img align="center" src="https://github-stats-pro.vercel.app/api?username=prabormukherjee&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact&langs_count=8&hide=jupyter%20notebook,smalltalk,cuda,dockerfile&theme=dark" alt="My github stats" />
+  <img align="center" src="https://github-stats-pro.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact&langs_count=8&hide=jupyter%20notebook,smalltalk,cuda,dockerfile,tsql,makefile&theme=dark" alt="My Lang stats" />
 </a>
-
+<a href="#">
+  <img align="center" src="https://streak-stats.demolab.com/?user=prabormukherjee&theme=dark&card_width=600" alt="My Streak stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=prabormukherjee&custom_title=Prabor%27s%20Contribution&theme=react&bg_color=151515&point=ffffff&radius=10" alt="My GitHub stats" />
+</a>
 <br/>
 <br/>
 
-**Languages and Tools :**
+**Languages and Tools:**
 
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://devdocs.io/c/)
 [![Cpp](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/-Java-F37C20?style=flat&logo=java&logoColor=white)](https://www.oracle.com/in/java/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Octave](https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=white)](https://www.gnu.org/software/octave/index)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-FF9800?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Php](https://img.shields.io/badge/-Php-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![JQuery](https://img.shields.io/badge/-JQuery-8BC34A?style=flat&logo=jQuery&logoColor=ffffff)](https://jquery.com/)
 [![Node](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat&logo=npm&logoColor=white)](https://npmjs.com/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
-[![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
@@ -101,14 +102,8 @@ Here are some ideas to get you started:
 </a>
 -->
 
-<!-- <a href="#">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=prabormukherjee&theme=onedark&row=1" alt="My github stats" />
-</a> -->
-
-<!-- <img align="left" src = "https://github-readme-stats.vercel.app/api?username=prabormukherjee&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&" alt = "My github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact&langs_count=6&hide=smalltalk,cuda,dockerfile&theme=dark" alt = "My used pref." /> -->
-
 <!--
+Extra -- Feel free to use
 [![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat&logo=webpack)](https://www.webpackjs.com/)
 [![Sass](https://img.shields.io/badge/-Sass-00BCD4?style=flat&logo=sass&logoColor=ffffff)](https://sass-lang.com/)
 
@@ -126,7 +121,22 @@ Here are some ideas to get you started:
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-in)
 
 [![Stylus](https://img.shields.io/badge/-Stylus-ff6347?style=flat&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
+[![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Octave](https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=white)](https://www.gnu.org/software/octave/index)
+[![Php](https://img.shields.io/badge/-Php-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 -->
 
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact&exclude_repo=Yolo_v3&langs_count=21 -->
+<!-- 
+https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact&exclude_repo=Yolo_v3&langs_count=21 
+
+<img align="left" src = "https://github-readme-stats.vercel.app/api?username=prabormukherjee&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&" alt = "My github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabormukherjee&layout=compact&langs_count=6&hide=smalltalk,cuda,dockerfile&theme=dark" alt = "My used pref." />
+
+<a href="#">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=prabormukherjee&theme=onedark&row=1" alt="My github stats" />
+</a>
+-->
 <!-- These are subjected to copyright @[prabor](https://github.com/prabormukjerjee) -->
